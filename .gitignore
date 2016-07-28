@@ -20,7 +20,7 @@
 
 ## grunt/npm stuff
 /dist
-#/node_modules
+/node_modules
 /.mortar.json
 /temp
 
