@@ -1,1 +1,1 @@
-token=xoxb-64076078864-2rVllLb1cw6zvlEmnTzFRTwq node slack_bot.js
+token=xoxb-64076078864-932Yl0u86UoYlToNsJxQBrjp node slack_bot.js
