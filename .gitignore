@@ -1,0 +1,28 @@
+# .gitignore for WWT web apps
+
+# IDE support files
+/.classpath
+/.launch
+/.project
+/.settings
+/*.launch
+/*.tmproj
+/ivy*
+/eclipse
+/target-eclipse
+/target
+/.idea
+/sql
+/out/*
+*.iml
+*.iws
+.slcache
+
+## grunt/npm stuff
+/dist
+/node_modules
+/.mortar.json
+/temp
+
+## stupid macs
+.DS_Store
